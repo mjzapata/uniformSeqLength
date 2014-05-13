@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="bioJava">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../biojava/biojava3-ws/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../biojava/biojava3-core/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../biojava/biojava3-core/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../biojava/biojava3-phylo/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../biojava/biojava3-phylo/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../biojava/biojava3-genome/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../biojava/biojava3-genome/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../biojava/integrationtest/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../biojava/biojava3-aa-prop/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../biojava/biojava3-aa-prop/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../biojava/biojava3-ontology/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../biojava/biojava3-ontology/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../biojava/biojava3-survival/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../biojava/biojava3-alignment/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../biojava/biojava3-alignment/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../biojava/biojava3-modfinder/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../biojava/biojava3-modfinder/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../biojava/biojava3-structure/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../biojava/biojava3-structure/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../biojava/biojava3-sequencing/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../biojava/biojava3-sequencing/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../biojava/biojava3-structure-gui/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../biojava/biojava3-structure-gui/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../biojava/biojava3-protein-disorder/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../biojava/biojava3-protein-disorder/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
